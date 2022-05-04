@@ -7,6 +7,6 @@ export EDITOR="/usr/local/bin/mate -w"
 
 ### Ipsum
 
-adding some heading to website
+adding some heading to websitedd
 
 1.index.html
